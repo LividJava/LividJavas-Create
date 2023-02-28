@@ -1,0 +1,14 @@
+name = "BetterF3"
+filename = "BetterF3-4.0.0-Forge-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/MTPw9hV7/BetterF3-4.0.0-Forge-1.19.2.jar"
+hash-format = "sha512"
+hash = "56e2f684a6b5bb483eabcea6f3f3ab893a76b4c0c76b6a5cbe8e63850ce70385edbeb36fd09764660c3a15aaf6e30150397e4f6d777e7ca684bc78d1f3d88465"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "MTPw9hV7"

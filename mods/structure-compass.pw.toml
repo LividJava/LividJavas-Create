@@ -1,0 +1,13 @@
+name = "Structure Compass"
+filename = "StructureCompass-1.19.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61967404ef5889e90a252fda82fdf6ba153a4112"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4358717
+project-id = 319598

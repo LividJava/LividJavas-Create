@@ -1,0 +1,13 @@
+name = "Lividjava's Create"
+author = "LividJava"
+version = "0.4.1a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a9c85aeb2ffc88a8720721d9c82bd6fae6020f93671922e20e12c16f198785a"
+
+[versions]
+forge = "43.2.4"
+minecraft = "1.19.2"

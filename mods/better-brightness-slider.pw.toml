@@ -1,0 +1,13 @@
+name = "Better Brightness Slider"
+filename = "brightnessslider-forge-1.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbb8937a5e1f8a93d0d17d13584ceb4c23aa586e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4018082
+project-id = 685037

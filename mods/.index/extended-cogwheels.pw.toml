@@ -1,0 +1,14 @@
+name = "Create: Extended Cogwheels"
+filename = "extendedgears-1.19.2-0.5.0g-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qO4lsa4Y/versions/hXRLhWix/extendedgears-1.19.2-0.5.0g-1.1.1.jar"
+hash-format = "sha512"
+hash = "7590b3290c79d2375bce2e1979bf98052ec434f7cd5ed46af6aa3f8d33e03f27d8e97e2c0dc5c4e8d7afcdc9b005b8de44869ad90de9204a94779904f3edde14"
+
+[update]
+[update.modrinth]
+mod-id = "qO4lsa4Y"
+version = "hXRLhWix"
