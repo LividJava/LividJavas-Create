@@ -598,7 +598,7 @@ hash = "14c26fde522feeb64f43bbf687877fab6c1a6ce86b686491836feeb205b2092e"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/chest.json"
-hash = "8e990a9627a325f1204e8a20e6e781ddf4f72f749a95f945039fc9c82ee92bfa"
+hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
 
 [[files]]
 file = "kubejs/data/minecraft/structures/end_city/ship.nbt"
