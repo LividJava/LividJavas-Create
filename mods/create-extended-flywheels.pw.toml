@@ -1,13 +1,13 @@
 name = "Create: Extended Flywheels"
-filename = "extendedflywheels-1.2.2-1.19.2-0.5.f.jar"
+filename = "extendedflywheels-1.2.5-1.19.2-0.5.f.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ef44394b4dd077cb9d46f1dbdc71271480ad0c78"
+hash = "554da8adf049f0de4d608288f0e09e1e1dd5172e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4011694
+file-id = 4167521
 project-id = 663769
