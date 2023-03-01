@@ -1424,8 +1424,9 @@ hash = "19791ebcfa792cbcb17e23fdc90eba5293917e8066cecb0d1527a34e8c034065"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-forge-0.1.2.jar"
-hash = "67134214bbc9c131512a8020924a2f6c5032f6ae1071094c308b5ce64fce9753"
+file = "mods/blahaj-reforged.pw.toml"
+hash = "7b3e32d4e527b915afb6d611b3f49fccd29cc1ccbc8442d251eef0671f97d692"
+metafile = true
 
 [[files]]
 file = "mods/chimes.pw.toml"
