@@ -3,11 +3,11 @@ filename = "open-parties-and-claims-forge-1.19.2-0.16.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/xZzL2vM0/open-parties-and-claims-forge-1.19.2-0.16.6.jar"
 hash-format = "sha1"
 hash = "59839f9a6a5c95652eb9f92dcf18b9ad7cce11eb"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4344797
-project-id = 636608
+[update.modrinth]
+mod-id = "gF3BGWvG"
+version = "xZzL2vM0"
