@@ -3,11 +3,11 @@ filename = "macawsbridgesbyg-1.19.2-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s4B19O5h/versions/jgLaQ3dd/macawsbridgesbyg-1.19.2-1.1.jar"
 hash-format = "sha1"
 hash = "95411c4d0ecdebc204d66333949d7b1b1c29dbc9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "s4B19O5h"
-version = "jgLaQ3dd"
+[update.curseforge]
+file-id = 4259565
+project-id = 535960

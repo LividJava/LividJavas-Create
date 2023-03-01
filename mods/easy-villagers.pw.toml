@@ -3,11 +3,11 @@ filename = "easy_villagers-1.19.2-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/forge-1.19.2-1.0.0/easy_villagers-1.19.2-1.0.0.jar"
 hash-format = "sha1"
-hash = "0ae4e80772c5b6882dafd08f6a2b73fdc4ba095c"
+hash = "daf16e49a7c3cccbc8ace88f23ade85e775b783d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Kaov2qgi"
-version = "mnOjj81v"
+[update.curseforge]
+file-id = 3920763
+project-id = 400514
