@@ -545,6 +545,22 @@ file = "config/xaeroworldmap.txt"
 hash = "d1eaefd0c010a29f4ad0ba0ce35cc885b63485bcb1e472670ff5211943f78afa"
 
 [[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
+hash = "a6dee4f56a6956d771217c20f00c581a1e70412eec321a258377f026e4026ca1"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "f143f32a279c2d4d0f34dde7c299947d64c36af5d4c86a0d940464b80ea7b454"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine.snbt"
+hash = "d8e8227e5d825dd1076fe3ee43251dbea2be7d15261170930982b76f3847541c"
+
+[[files]]
+file = "icon.png"
+hash = "c452bf235bc8e39c56763b52c65ae7d955366380a5caa636924d5ecc5810921a"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -1003,8 +1019,9 @@ hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-forge-0.1.2.jar"
-hash = "67134214bbc9c131512a8020924a2f6c5032f6ae1071094c308b5ce64fce9753"
+file = "mods/blahaj-reforged.pw.toml"
+hash = "7b3e32d4e527b915afb6d611b3f49fccd29cc1ccbc8442d251eef0671f97d692"
+metafile = true
 
 [[files]]
 file = "mods/chimes.pw.toml"
@@ -1014,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "846d2a198b09ed511eb04081bab7643c234148cfd0ff5e18e0d583fdfe5cc00d"
 metafile = true
 
 [[files]]
@@ -1094,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "d4627d3a68f09d898fdbd4ea6d0f6a46c88e75c78cb13315b52857d89b7db5de"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
