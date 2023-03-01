@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-brightness-slider.pw.toml"
-hash = "e471cbfb33fc9e87945387679d041ac980d5e033babd6aad6e95ea8a35784738"
+hash = "fb3289238612035ba3c2ddeffd7eebd668c1fb61fbb6b5cbb54adea0fb955466"
 metafile = true
 
 [[files]]
