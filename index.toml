@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerWhitelist.json"
-hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/YungsExtras/README.txt"
 hash = "2e494050535555835f5d0cc89bde1207711e208e9a190ce9dce798ad80d5216f"
 
@@ -269,10 +245,6 @@ file = "config/citadel-common.toml"
 hash = "ae31ffd84b5647408aeaa7ccb415795bfd9f238a6fe39bc31dfe4a4ba3df1cc7"
 
 [[files]]
-file = "config/create-client.toml"
-hash = "5eb2d5109217e4528eb3a6cf3176b00375e6aa71c959ad46c283f73f2596ac20"
-
-[[files]]
 file = "config/create-common.toml"
 hash = "4fb3b84a39fa8bbcbdaf9530ae20257afa16572ac313a816072e5fce319625b7"
 
@@ -285,16 +257,8 @@ file = "config/create_jetpack-common.toml"
 hash = "005aa3baec06395d26c6acae5b2c71ae62816c7f267c45e3f1b2fdcf9af4adc3"
 
 [[files]]
-file = "config/create_mechanical_spawner-common.toml"
-hash = "0e59c37220b86825b6b078852b3c9291093173db6fe431c33818a4cb0deaf15a"
-
-[[files]]
 file = "config/curios-client.toml"
 hash = "1ac04b541d19cc58791e5ceea4a46b7e1d75a2b4b2d5e359b9fcab606e5ef750"
-
-[[files]]
-file = "config/dynamic_lights_reforged.toml"
-hash = "d51cfa73ad1f160a4bf14a7fca90ab6f8dadb8dee52e240d3190193b9e954bc4"
 
 [[files]]
 file = "config/easy_villagers-client.toml"
@@ -311,10 +275,6 @@ hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "988bf2254b578f24a9e8509662590c40cabf91ffa98c8b5ec49fb9d0aa39e829"
-
-[[files]]
-file = "config/flywheel-client.toml"
-hash = "0a70d58a4a562c2aa2945a3883d35fa3a8e90d80eab9d6b2db3be6103f71b9b2"
 
 [[files]]
 file = "config/fml.toml"
@@ -357,10 +317,6 @@ file = "config/jei/ingredient-list-type-sort-order.ini"
 hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
 
 [[files]]
-file = "config/jei/jei-client.ini"
-hash = "6ec2d20799ba07a3fa7ce44210ef4be36a0e98aa513f82c831747e1bcd90cd3e"
-
-[[files]]
 file = "config/jei/jei-colors.ini"
 hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
 
@@ -397,20 +353,12 @@ file = "config/lootr-common.toml"
 hash = "cc0b3ddd57ada3ee4e945320c9815daf34fde6aacbc0229c1877bfffada194e0"
 
 [[files]]
-file = "config/moreminecartsconfig-1.toml.bak"
-hash = "a30b2c56b6a80c9c2c9a071f3a416e3051a983a3207589d82c94f69d42aef338"
-
-[[files]]
 file = "config/moreminecartsconfig.toml"
 hash = "930236a6f2b2420ac8a47be2cd5ec024f4ae6ed19b9969c1491374e01eed3e82"
 
 [[files]]
 file = "config/mutil-client.toml"
 hash = "a37d1a85d7f36544d9d0171930e6a2f7202aa75a105d5596a6085a8078faeefb"
-
-[[files]]
-file = "config/oculus.properties"
-hash = "91048df7a53251cd7aa547b2d42031c903f75b067f32b743222c0d33cbfad42c"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
@@ -421,14 +369,6 @@ file = "config/quark-common.toml"
 hash = "6c46e90ff94153e2cac9dcb64eb5e37bf08b667650cd611db8f74cb1ee0b5440"
 
 [[files]]
-file = "config/rubidium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
-
-[[files]]
-file = "config/rubidium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
 file = "config/sidebar_buttons.json"
 hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
 
@@ -437,48 +377,12 @@ file = "config/sliceanddice-common.toml"
 hash = "b39636bb092d0e57809488c0b3a9e054a48ade6219071a147986633273fcf1c6"
 
 [[files]]
-file = "config/sodium-extra-options.json"
-hash = "8cf48aa15a7131b61e0256d502f8e901cb51352471e0dd5a557b35098023da34"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "77f6a03b0025ac05a0948ce36bde0ff5bc42c8932f977aca9d8150790d918dbd"
 
 [[files]]
-file = "config/sophisticatedcore-client.toml"
-hash = "8f8498a68e7e705c071f903999a9a122561bd40d6359f5abd7775d9f070c017b"
-
-[[files]]
-file = "config/sophisticatedcore-common-1.toml.bak"
-hash = "afb278b63f77a45d5833093afbe4cf4956ab7fc91252181f1080f0ac98295b81"
-
-[[files]]
-file = "config/sophisticatedcore-common-2.toml.bak"
-hash = "dfa9485e7f22cdc3837fbe85c478f44a04363c75c60efa87d1ff70afd178ffc6"
-
-[[files]]
-file = "config/sophisticatedcore-common-3.toml.bak"
-hash = "a03f2ccafb7e934eec6918dc331daafacc67b4787df889e17f3fd62dd3f5b6a3"
-
-[[files]]
-file = "config/sophisticatedcore-common-4.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/sophisticatedcore-common-5.toml.bak"
-hash = "3c7282df4b7f33fb62807579c46217ee7f2e9d464b64c5141c8e6d34b6c6b734"
-
-[[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "8d18bce0fd90a2be64910e33216b1f69a253f7ca7ba8adabb58fade4bcce0fac"
-
-[[files]]
-file = "config/sophisticatedstorage-client.toml"
-hash = "a2f53f0a46a448a684ff024bcc0ea910a9adca68bf9b2ff09e0bacba046f31a2"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
@@ -521,28 +425,8 @@ file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
-file = "config/waila/waila.json"
-hash = "a02827b181b425b15b03ea102153bcb881f126d065aea1a81cfe5be3c4f0c780"
-
-[[files]]
 file = "config/waila/waila_plugins.json"
 hash = "0a177c47b468fcdf812dd687441dcf107baa339c38d2bf25b0a57bb4bb9c1514"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "3607df1aaffceac5df5fb788cc11922d5daf7f12d7406b6a91747406ac6d0db9"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "c6ca7394eab334e23ea4714d3ce64a6e8fd51eb9bbba532e8dfd9e7b2d965bd5"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "d1eaefd0c010a29f4ad0ba0ce35cc885b63485bcb1e472670ff5211943f78afa"
 
 [[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
@@ -974,19 +858,11 @@ hash = "044a13fb9cc9d748d85a3c1cf396a9d694f8b563e793d0fa61ef90a9a701abfa"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "33e20c51d268aacf63fab2fae6ee5245eefce19695e2bf21728aad9ee7f801ac"
+hash = "592d5fa74c6995d2f63ecb11b16bb60b691cc40d443518a5bcc9b57e5172893f"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
-
-[[files]]
-file = "local/ftbultimine-client.snbt"
-hash = "82e45afb148d099982ea099182fb094c8d697d0bc3917a183417bb1ecb8d6d59"
-
-[[files]]
-file = "local/kubejsdev.properties"
-hash = "d58d197846ba346095f5306dd78a8382d4bd11a3181988daaf08c9b1669dcf6f"
+hash = "4e736798520ecbd4153aae8dc5b97df135433222dc46bdd7bff111bd505811ca"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1437,10 +1313,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "scripts/raccoonblackmagic.zs"
