@@ -999,6 +999,16 @@ hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e7fa1882ece4d759e3bba3e96704b5806daecf3351cf073b9c1e8d53c6219116"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "bded5cd883388dc0fd9936f2dce2b527173a02dae51220e7c4ef521f2e6d687d"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -1031,6 +1041,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "ed7d38776b40ced95d806d0debaa6faa5b999d1c46095d3587d6a9ff3947c0cc"
 metafile = true
 
 [[files]]
@@ -1101,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "706799db60fb471753f9a40627dc6af717ffedaae833dbe37b83273793e2d765"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "15ec930ce0519321748df2efd650af394803aa9c22e7c09b841c4b77033095df"
 metafile = true
 
 [[files]]
@@ -1269,6 +1289,11 @@ hash = "58e06eeb61c9640f48bca3a95ca50af757792719146a33a7a1a31025e875858a"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
 metafile = true
@@ -1291,6 +1316,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "e1a41c2b6fa9008ff67b7e01764c644261ec8140c9bbac0d6cd519c91523f270"
 metafile = true
 
 [[files]]
@@ -1341,6 +1371,16 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "379c236c0373e7922ece47b34ad160cf906652bce97c014f14849774e1493a93"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "8d2c6294be2f0e0efcc0e7605456350cc061c4e7dac921c895dd3510d58cdbf5"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "c3c796e10b9e241b3e87404f7e239af7508aa62c3cfc0287d4934f182d4cf983"
 metafile = true
 
 [[files]]
