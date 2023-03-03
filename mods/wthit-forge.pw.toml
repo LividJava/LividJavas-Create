@@ -1,13 +1,13 @@
 name = "WTHIT Forge Edition"
-filename = "wthit-forge-5.13.5.jar"
+filename = "wthit-forge-5.14.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1ea31578a2f451cc49efcfcfd18ec34ec053b1c"
+hash = "67feff231d39d50fc59b589463e0ec1555f8fee2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4368864
+file-id = 4419820
 project-id = 455982

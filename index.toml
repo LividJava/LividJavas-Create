@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "823537b84dc4c55889d23255e42248e6eeb02fad57c46aa694b6ce26451a4a86"
+hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
 metafile = true
 
 [[files]]
@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "93be579c5a7d0bde438284958086d6e1b8838a95b4a3c41df97d5a5b4c2d4f0e"
+hash = "9985600713a699c940c7b202ff6b5594cc4cfbba78af24c2c899338184a71050"
 metafile = true
 
 [[files]]
@@ -1031,12 +1031,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a9fef89ec9504b3740a8f2e09e933d5c0d7319c26f66f2eb1c8eaccd5e772e59"
+hash = "f2526b02e5bf3c45d1c34452d8e77c210a57a8eedd3a13bf5031c97b247a3e59"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "f84f573ed07d2eeba3a26cb389ba5c2ca32f73c6e5e91996923f1fd0d7697f4c"
+hash = "b4f6e3336d85230e00cdacd626e7d4f9767a0e92fcc4dd00809f328342e4ae0c"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/liquid-burner.pw.toml"
-hash = "e26e132aeb8733c398d882585704e82af6949e5bd7a162c490728cc0dff3320c"
+hash = "2e887edabb5db6adfc7d58a7fec3d77dbe83aa348119c01ded9968250ff691eb"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "d0674dbe5d5d5661f8746475cb28439e580e61f9fc0ea7f42c6c5a58c77d655f"
+hash = "0c0819e3f1ca43c84af57322e215cd56c8b94a1b620dd021000e0af5775e8af5"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "4221758ee252138abac7d700738b72fe50baaa698b4e95d7ef5e35c71260ecd5"
+hash = "601eb65f83a64a1bb9def1a73963e1b814bd822914f6a810162136fc497f6643"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "87a9981fb934fde9aaf6db02ba3513955bd359aab6c4f4f8427e8b6bd8e30602"
+hash = "60afd39b6746e2af5ae127e8e1ebf96f2c6d3cf418c9f42e014d6ba5b8ff1b16"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "29cb5b33d82d045486651230f372e2412b087d97c5f1edc239cbd82e2b53d029"
+hash = "95badf2bf4204bd164e95132037081a85f4d9a4992fc22f673eb19bc1c6e9aea"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "379c236c0373e7922ece47b34ad160cf906652bce97c014f14849774e1493a93"
+hash = "da0c5b2b1b540c14f94cd1c787aeaed7e6addf108e9c468a5143e8a99436021c"
 metafile = true
 
 [[files]]
@@ -1256,27 +1256,27 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.pw.toml"
-hash = "57e587362fa8eb24e35e42926767b9011f764378b73f5d897dbac80267706b8c"
+hash = "80c78dd0b8ecbcce17b647557c4dc4332b3407012c00556bb2b52412e6a60e60"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "28abbc86e422d9f8263dd45132bdab8fa8ce4e2f9cb415997f821e0ab0e02235"
+hash = "1bbc6e7c7b2a7aa3844ad2971f37f0ac4cb954accd0ab19d74c84552142014ad"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3d0e7fcc4b54e29b4ee0a73d0114a23505560a2779b7e25c34a26da62b203498"
+hash = "1dcb59c5b3cb5dd169728717a578394a425f62bdc545c2593ec28d41c2c93673"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "5156e71ecfd524e7d07033c99cac410b4140b56fc8316a0afd86ed928372760b"
+hash = "0294d3c45a995a4a95a55d19e88661756559e6db02ea7ce49e9200c9add14af4"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "d863329d343ffc95726ecc61d00dec84b24dbafcda08ea77334015f702829591"
+hash = "6a3520d3d8cd926f52d043d3be3c8a172669f724886693aaed9cd1d82692b63e"
 metafile = true
 
 [[files]]
