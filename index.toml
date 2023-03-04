@@ -1060,6 +1060,11 @@ hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
 file = "mods/liquid-burner.pw.toml"
 hash = "2e887edabb5db6adfc7d58a7fec3d77dbe83aa348119c01ded9968250ff691eb"
 metafile = true
@@ -1177,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "60afd39b6746e2af5ae127e8e1ebf96f2c6d3cf418c9f42e014d6ba5b8ff1b16"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
 metafile = true
 
 [[files]]
