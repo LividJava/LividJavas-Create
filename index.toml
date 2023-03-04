@@ -925,6 +925,11 @@ hash = "ed7d38776b40ced95d806d0debaa6faa5b999d1c46095d3587d6a9ff3947c0cc"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "df5610e72ef4de2c6823362ea683097379b57556554732c5f314d22f1139b7c6"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "feea47fda06bc379af5260d12fe457d77a7b2450e62cfa5b880a51cb52932850"
 metafile = true
