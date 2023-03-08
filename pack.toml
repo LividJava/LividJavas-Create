@@ -1,12 +1,12 @@
 name = "LividJava's Create"
 author = "LividJava"
-version = "0.5.0a-hotfix2"
+version = "0.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "80274666ea6aee8e1bc270972ee215b105ab1504ee34bcaea5299be97ab587da"
+hash = "1c5b7d62a84a16048c93e64ace8f41649efb2d66ce591304e99f0633a57bcd94"
 
 [versions]
 forge = "43.2.4"
